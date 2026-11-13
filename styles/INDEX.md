@@ -19,9 +19,9 @@ Human-facing examples are in the [usage guide](../README.md). Keep its style tab
 
 The user selects one style before preview generation. A custom combination is available by request, with an explicit primary style. These choices are visual approaches to **product videos**, not separate skills.
 
-Suggested Hinglish menu wording:
+Suggested English menu wording:
 
-> Kaunsa style use karna hai? 1 Screenshot Feature Explainer, 2 Guided How-To, 3 SaaS Demo, 4 Layered / 3D App Showcase, 5 Minimal, 6 Kinetic Typography, 7 Infographic Explainer, 8 Bold Social, 9 Cinematic, ya 10 Dark AI Launch? Number/name select karo; phir preview banaunga.
+> Which style would you like to use? 1 Screenshot Feature Explainer, 2 Guided How-To, 3 SaaS Demo, 4 Layered / 3D App Showcase, 5 Minimal, 6 Kinetic Typography, 7 Infographic Explainer, 8 Bold Social, 9 Cinematic, or 10 Dark AI Launch? Select a number or name, and I will create a preview.
 
 Generate this wording from the current table so future styles are included too.
 

@@ -13,18 +13,18 @@ Use a supplied human recording first. Otherwise the practical fallback is natura
 ## Tool and capability checks
 
 - Inspect available audio/TTS tools and configured services before choosing a provider. This skill requires no particular provider and bundles no credentials or voice subscription.
-- Select a voice that actually supports Hindi/Hinglish, English, or the requested language. Listen to a short sample for female presentation, pronunciation, warmth, and intelligibility.
+- Select a voice that supports English by default, or the language explicitly requested for the video. Listen to a short sample for female presentation, pronunciation, warmth, and intelligibility.
 - Use an available service within the user's authorized access. Never invent a voice identifier, completed audio file, or successful API call. Do not expose API keys in project output.
 - When no suitable voice tool or recording is available, save the narration script, mark voiceover `pending`, and clearly label any visual preview as silent. An audio stream or a tone is not proof of female narration.
 
 ## Script and delivery
 
-Follow the audience's language and the selected style's delivery notes. Hinglish is appropriate when established by the conversation; use natural spoken phrasing rather than a literal translation of an English ad.
+Use English by default and follow the selected style's delivery notes. If the user explicitly requests another language for the video, use natural spoken phrasing suited to that audience rather than a literal translation.
 
 Write a short hook, product name, supported benefits, and CTA. A 30-second promo often starts around **50–65 spoken words**, leaving room for pauses; use actual recorded duration, not a word-count guess, to set the final timing. Fast styles can use fewer pauses but should still sound human and clear.
 
-- Use the intended script for the voice engine, often Devanagari for Hindi words and Latin letters for brand names. Check pronunciation rather than assuming mixed scripts always work.
-- Captions may be Hindi, English, or Romanized Hinglish according to the brief. Their script does not have to match the TTS input script; their meaning and timing must match the audio.
+- Use a writing system supported by the voice engine for the requested language, and check brand-name pronunciation. Do not assume mixed writing systems will be pronounced correctly.
+- Default captions to English unless the user explicitly requests another language. Caption wording and timing must match the narration, even when the voice engine requires a different input representation.
 - Add pronunciation notes for brands, units, or acronyms. Test troublesome terms in the short sample before generating the whole narration.
 - Keep delivery conversational, with natural emphasis and pauses. Prefer shortening copy over speeding audio unnaturally. Do not clip the final syllable to meet the target duration.
 

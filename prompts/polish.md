@@ -5,12 +5,12 @@ Use for a current project with a selected style. Inspect the actual preview/sour
 ## Motion and readability audit
 
 ```text
-Is preview ko selected style aur current brief ke against audit karo.
-Phone size par headline, real UI, highlight, captions aur CTA readability check karo.
-Transitions, pacing, product identity aur actual narration sync inspect karo.
-Evidence ke saath sabse useful 3 fixes prioritize karo; style ko randomly change mat karo.
-Jo available preview/audio se check nahi ho sakta use pending batao.
-Abhi audit do; changes tab implement karo jab request mein revision bhi included ho.
+Audit this preview against the selected style and current brief.
+Check the headline, real UI, highlights, captions, and CTA for readability at phone size.
+Inspect transitions, pacing, product identity, and synchronization with actual narration.
+Prioritize the three most useful fixes with evidence; do not randomly change the style.
+Mark checks that the available preview or audio cannot support as pending.
+Provide the audit now; implement changes only if revision is also included in the request.
 ```
 
 ## Minimal / Apple-inspired polish
@@ -18,29 +18,29 @@ Abhi audit do; changes tab implement karo jab request mein revision bhi included
 Use when Style 5 is selected, or when the user explicitly requests compatible restrained motion in the current style:
 
 ```text
-Selected minimal direction ko polish karo: whitespace, type hierarchy, readable holds,
-restrained easing aur product-first framing par focus karo. Extra effects add karne
-se pehle competing elements reduce karo. Actual logo, UI, copy aur brand preferences
-preserve karo. Isko source reference ki exact timing/easing ka measured match mat bolo.
+Polish the selected minimal direction with whitespace, type hierarchy, readable holds,
+restrained easing, and product-first framing. Reduce competing elements before adding
+effects. Preserve the actual logo, UI, copy, and brand preferences. Do not describe the
+result as a measured match for a reference's exact timing or easing.
 ```
 
 ## Real UI and chart integrity
 
 ```text
-Preview ko supplied original screenshots aur data ke saath compare karo.
-Labels, logos, numbers, units, chart axes aur tutorial screen/action order preserve hon.
-Crop, scale ya perspective move ke baad highlight/tap cue actual target se aligned rahe.
-Unreadable UI ko guessed text se replace mat karo. Invented states ya misleading chart
-changes ho to correct karo aur relevant revised section verify karo.
+Compare the preview with the supplied original screenshots and data.
+Preserve labels, logos, numbers, units, chart axes, and the tutorial's screen and action order.
+Keep highlights and tap cues aligned with their actual targets after crop, scale, or perspective changes.
+Do not replace unreadable UI with guessed text. Correct any invented states or misleading
+chart changes, then verify the relevant revised section.
 ```
 
 ## Female voice and captions
 
 ```text
-Actual narration sun kar product-name pronunciation, natural pauses, clipped words,
-caption timing aur music ke against speech clarity fix karo.
-Same female voice identity retain karo. Real human recording aur AI TTS ka source
-accurately identify karo. Audio available nahi ho to ye check pending batao.
+Listen to the actual narration and fix product-name pronunciation, natural pauses,
+clipped words, caption timing, and speech clarity against the music.
+Retain the same female voice identity. Accurately identify the source as a real human
+recording or AI TTS. Mark this check as pending if audio is unavailable.
 ```
 
 ## Fix one thing
@@ -48,10 +48,10 @@ accurately identify karo. Audio available nahi ho to ye check pending batao.
 Replace the bracketed request with a concrete edit:
 
 ```text
-Sirf ye edit karo: [scene aur exact requested change].
-Selected style, approved product facts, real tutorial dependencies aur unaffected
-approved scenes retain karo. Relevant section ka revised preview do, aur kya changed
-hai batao. Is edit ko unrelated redesign mein expand mat karo.
+Make only this edit: [scene and exact requested change].
+Retain the selected style, approved product facts, real tutorial dependencies, and
+unaffected approved scenes. Provide a revised preview of the relevant section and
+explain what changed. Keep this revision focused on the requested change.
 ```
 
 For render checks and output requirements, use [rendering](../references/rendering.md); metadata checks alone cannot establish visual or voice quality.

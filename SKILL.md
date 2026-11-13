@@ -15,7 +15,7 @@ For a user-facing overview, workflow diagram, requirements, and ready-to-copy pr
 - Duration: 30 seconds unless specified; adapt the story to the requested length.
 - Inputs: images only, clips only, screenshots, or a mixture; accept brand assets and audio too.
 - Voice: natural, adult female delivery. Prefer a supplied human recording; otherwise use an available female TTS voice and identify it as AI-generated. See [voiceover](references/voiceover.md).
-- Language: follow the user's brief and audience; use Hindi/Hinglish when that is the established language and nothing else is specified.
+- Language: keep skill documentation and example prompts in English. Default video scripts, narration, and captions to English; use another language for a specific video only when the user explicitly requests it.
 - Output: playable video preview, then the requested final MP4 and editable source.
 - Style: **no default selection**. Never infer style selection from supplied assets or a reference link.
 
@@ -39,9 +39,9 @@ For screenshot-based feature explanations, recommend **1 — Screenshot / Featur
 
 ## 2. Always ask for style selection for a new video
 
-Read the current [style menu](styles/INDEX.md), including styles added later. Present its numbered choices with a short description, in the user's language. Ask:
+Read the current [style menu](styles/INDEX.md), including styles added later. Present its numbered choices with a short description in English unless the user explicitly requests another language. Ask:
 
-> Is product video ke liye kaunsa style chahiye? Number ya style name select karo. Uske baad main usi style ka preview banaunga.
+> Which style would you like for this product video? Select a number or style name, and I will create a preview in that style.
 
 For **each new video**, wait for the user's choice before generating its visual preview or choosing a style. If the request already names a style, show it as the proposed choice and ask the user to confirm; this explicit selection is the owner's preference. A previous video's choice does not automatically carry over to a new video. Recommendations are allowed, but recommendations, silence, reference links, or inferred product fit are not selections.
 

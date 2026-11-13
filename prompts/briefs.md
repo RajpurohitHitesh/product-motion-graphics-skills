@@ -5,14 +5,14 @@ Use to turn assets and a goal into a product brief. Before style confirmation, i
 ## General brief
 
 ```text
-Mere supplied product details aur assets se concise motion brief banao.
-Existing brand.md aur MOTION.md ho to read karo.
-Product, audience, purpose, approved benefits with sources, CTA, asset roles,
-duration, voice/language, captions aur output settings record karo.
-Current style menu se suitable options recommend karo aur selection confirm karwao.
-Uske baad chosen style ke hisaab se hook, scene grouping aur narration plan banao.
-Example timelines ko fixed template mat samjho; actual assets aur purpose ke around design karo.
-Unknown product facts, unreadable labels aur missing source states clearly mark karo.
+Create a concise motion brief from my supplied product details and assets.
+Read existing brand.md and MOTION.md files when present.
+Record the product, audience, purpose, approved benefits with sources, CTA, asset roles,
+duration, voice and language, captions, and output settings.
+Recommend suitable options from the current style menu and ask me to confirm a selection.
+Then plan the hook, scene grouping, and narration around the chosen style.
+Treat example timelines as flexible guidance; design around the actual assets and purpose.
+Clearly identify unknown product facts, unreadable labels, and missing source states.
 ```
 
 The working brief starts from [the reusable template](../templates/product-brief.json) in the output project; do not overwrite the template itself.
@@ -20,27 +20,27 @@ The working brief starts from [the reusable template](../templates/product-brief
 ## AmezPrice: feature explanation
 
 ```text
-AmezPrice ke supplied price-history screenshots se feature explanation plan karo.
-Goal: viewer ko visible chart aur supported insight samajh aaye.
-Style 1 — Screenshot / Feature Explainer propose karo aur confirmation lo.
-30-second vertical Short, Hinglish female narration aur readable captions chahiye.
-User ko orient karo, ek useful area focus karo, uska meaning plain language mein
-samjhao, aur supplied CTA par finish karo. Sirf visible/supported values use karo.
-Recorded history ko current live price ya guaranteed saving mat bolo.
-Selection ke baad pehle sirf 6–8 second representative preview do.
+Plan a feature explanation from the supplied AmezPrice price-history screenshots.
+Goal: help viewers understand the visible chart and supported insight.
+Propose Style 1 — Screenshot / Feature Explainer and ask for confirmation.
+Use a 30-second vertical Short with female English narration and readable captions.
+Orient the viewer, focus on one useful area, explain its meaning in plain language,
+and finish with the supplied CTA. Use only visible or supported values.
+Do not describe recorded history as the current live price or a guaranteed saving.
+After selection, provide only a representative 6–8 second preview first.
 ```
 
 ## AmezPrice: repeatable how-to
 
 ```text
-In ordered screenshots aur recording se AmezPrice mein target-price alert set karne
-ka how-to plan karo. Style 2 — Guided / How-To Tutorial propose karke confirm karwao.
-Actual start state, button labels, actions, next screens aur result evidence verify karo.
-Missing intermediate screen ya success state invent mat karo.
-Har step mein ek clear action aur aligned tap/focus cue ho; narration aur captions
-screen ke action/result se match hon. Required step order preserve karo.
-30-second target ko actual action/reading load ke hisaab se assess karo.
-Selection ke baad pehle sirf ek representative complete step ka short preview do.
+Plan a tutorial for setting an AmezPrice target-price alert from these ordered
+screenshots and recording. Propose Style 2 — Guided / How-To Tutorial and ask for confirmation.
+Verify the actual start state, button labels, actions, next screens, and result evidence.
+Do not invent missing intermediate screens or success states.
+Give each step one clear action and an aligned tap or focus cue. Match narration and
+captions to the screen's action or result, and preserve the required step order.
+Assess the 30-second target against the actual action and reading load.
+After selection, provide only a short preview of one representative complete step first.
 ```
 
 ## Scene-plan fields

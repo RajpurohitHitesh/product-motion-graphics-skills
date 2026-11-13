@@ -5,45 +5,45 @@ Use when starting a product video or giving feedback on its preview. Attach actu
 ## One-line starter
 
 ```text
-Product Motion Graphics skill use karo: mere product assets se 30-second vertical YouTube Short banao. Pehle styles dikhao aur mujhse selection lo; phir sirf 6–8 second preview do. Natural female Hinglish voice chahiye.
+Use the Product Motion Graphics skill to create a 30-second vertical YouTube Short from my product assets. Show the styles and ask for my selection, then provide only a 6–8 second preview. Use natural female English narration.
 ```
 
 ## AmezPrice screenshot handoff
 
 ```text
-Ye AmezPrice ke actual screenshots aur available recording hain.
-Goal: ek feature ka meaning aur benefit clearly explain karna.
-Audience: app ke naye users. Format: 1080 × 1920 YouTube Short, 30 seconds.
-Language: Hinglish, natural adult female delivery, readable captions.
-Existing brand/motion context ho to pehle read karo.
-Feature explanation ke suitable styles recommend karo aur mera selection wait karo.
-Selection ke baad pehle sirf representative 6–8 second preview banana.
-Screenshot labels, original values aur real UI preserve karo.
-Render ya voice tool missing ho to actual status aur pending requirement batao.
+Here are AmezPrice's actual screenshots and the available recording.
+Goal: clearly explain one feature's meaning and benefit.
+Audience: new app users. Format: 1080 × 1920 YouTube Short, 30 seconds.
+Language: English, with natural adult female delivery and readable captions.
+Read any existing brand and motion context first.
+Recommend suitable feature-explanation styles and wait for my selection.
+After selection, provide only a representative 6–8 second preview first.
+Preserve screenshot labels, original values, and the real UI.
+Report the actual status and pending requirements if rendering or voice tools are missing.
 ```
 
 ## Edit by describing the change
 
-Current video revise ho to selected style retain karo. In examples ko actual scene/text ke saath adapt karo:
+Retain the selected style when revising the current video. Adapt these examples to the actual scene or text:
 
 ```text
-Second scene ka zoom slow karo; UI ko read karne ka time badhao.
-Is headline ko mere diye text se replace karo; baaki approved scenes retain karo.
-Highlight ko actual button ke saath aligned rakho, crop move hone par bhi.
-Voice mein AmezPrice ki pronunciation fix karo; captions ko revised audio se align karo.
-Is transition ka motion reduce karo; selected style ki visual identity retain karo.
-Isi video ka alternate hook dikhao; real tutorial step order aur product facts same rakho.
+Slow down the zoom in the second scene and allow more time to read the UI.
+Replace this headline with my supplied text and retain the other approved scenes.
+Keep the highlight aligned with the actual button, including during crop movements.
+Fix the narrator's pronunciation of AmezPrice and align captions with the revised audio.
+Reduce the movement in this transition while retaining the selected style's visual identity.
+Show an alternate hook for this video while preserving the real tutorial order and product facts.
 ```
 
-## Preview se final
+## From preview to final
 
 Use after the relevant preview feedback, when the full video is wanted:
 
 ```text
-Is selected style aur revised preview ko full 30-second Short mein complete karo.
-Final 1080 × 1920 MP4, aligned captions, clear female narration aur editable source do.
-Actual generated files aur verification status link karo. Required audio ya render
-pending ho to final ko complete mat batao. YouTube par upload abhi nahi karna hai.
+Complete this selected style and revised preview as a full 30-second Short.
+Deliver a 1080 × 1920 MP4, aligned captions, clear female narration, and editable source.
+Link actual generated files and report verification status. If required audio or rendering
+is pending, do not describe the final video as complete. Do not upload to YouTube.
 ```
 
 For the current options, see [the style menu](../styles/INDEX.md). A new video always needs style selection/confirmation, even when a previous video used the same assets.

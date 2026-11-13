@@ -13,7 +13,7 @@ Words carry the rhythm while the product and its benefits remain visible. Build 
 
 - Word/phrase entrance: 4–9 frames. A short scale overshoot can settle by 10–14 frames; keep glyphs crisp.
 - Use 2–5 word semantic groups for readable phrases. A single emphasized word may pop quickly, but complete claims must remain understandable.
-- Use position, scale, mask reveals, and shape-matched words. Limit rotation so Hindi and small letterforms remain readable.
+- Use position, scale, mask reveals, and shape-matched words. Limit rotation so small and complex letterforms remain readable.
 - Anchor entrances to actual voice timing. If music is supplied, inspect its beat locations; do not label arbitrary time intervals as beat-synchronized.
 - Allow 1–2 second holds on the central product promise. Constant acceleration makes every word equally weak.
 
@@ -31,7 +31,7 @@ Words carry the rhythm while the product and its benefits remain visible. Build 
 
 Use a cutout, stable product crop, or clip as the visual anchor. Treat reference typography as a motion example, not as copy to repeat for a different product.
 
-Voice: expressive, articulate female delivery, roughly 145–165 words/minute as an initial range. Do not speed the narration to rescue an overloaded script. For Hindi/Hinglish, preserve meaningful word groups and natural pronunciation.
+Voice: expressive, articulate female delivery, roughly 145–165 words/minute as an initial range. Do not speed the narration to rescue an overloaded script. Preserve meaningful word groups and natural pronunciation in the requested language.
 
 ## Preview and quality checks
 

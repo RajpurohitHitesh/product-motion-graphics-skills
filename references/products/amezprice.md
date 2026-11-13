@@ -43,7 +43,7 @@ The [primary style reference](../../styles/layered-app-showcase/references/2026-
 
 Suggested selection wording for the current screenshot use case:
 
-> Feature ka fayda samjhana hai to Style 1, aur use karne ke steps sikhane hain to Style 2 recommend karunga. Kaunsa select karna hai? Selection ke baad screenshots se preview banaunga.
+> I recommend Style 1 to explain a feature's benefit, or Style 2 to teach the steps for using it. Which would you like to select? After your selection, I will create a preview from the screenshots.
 
 Wait for the choice before generating a new video preview. The stored preference is not a permanently confirmed selection for every future video.
 
