@@ -1,0 +1,62 @@
+{
+  "product": {
+    "name": null,
+    "type": null,
+    "description": null,
+    "verifiedBenefits": [],
+    "claimSources": [],
+    "audience": null,
+    "callToAction": null
+  },
+  "platform": "youtube-shorts",
+  "purpose": null,
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSeconds": 30,
+    "container": "mp4",
+    "videoCodec": "h264",
+    "pixelFormat": "yuv420p",
+    "audioCodec": "aac"
+  },
+  "preview": {
+    "width": 540,
+    "height": 960,
+    "durationSeconds": 6,
+    "videoPath": null,
+    "storyboardPaths": []
+  },
+  "style": {
+    "selectedId": null,
+    "confirmedForThisVideo": false,
+    "guidePath": null,
+    "learnedVariations": []
+  },
+  "voiceover": {
+    "required": true,
+    "presentation": "natural-adult-female",
+    "sourceType": null,
+    "language": "hi-IN",
+    "delivery": "natural Hinglish; adapt to the selected style and brief",
+    "provider": null,
+    "voiceId": null,
+    "script": null,
+    "audioPath": null,
+    "actualDurationSeconds": null,
+    "status": "pending"
+  },
+  "captions": {
+    "required": true,
+    "language": "follow brief",
+    "script": "follow user preference",
+    "filePath": null,
+    "timingStatus": "pending"
+  },
+  "assets": [],
+  "screenshotPlan": [],
+  "referenceVideos": [],
+  "musicPath": null,
+  "requiresReviewBeforeFinal": false,
+  "status": "awaiting-style-selection"
+}
