@@ -1,5 +1,17 @@
 # Cinematic / Futuristic
 
+## Refined treatment: cinematic continuity and technical detail
+
+The [faceless/motion comparison](../../references/video-studies/2026-11-14-craft-upgrade.md) contributes camera/overlay discipline and restrained Clean Tech labels. Apply [motion craft](../../references/motion-craft.md) without importing unrelated anatomy, cartoon characters or desktop chrome.
+
+Text: use [a restrained reveal title, sparse technical labels and quiet brand/CTA hierarchy](../../references/heading-system.md), keeping printed product text untouched. Audio: use [a deliberate atmospheric arc and real material/reveal accents](../../references/sound-and-cursor.md); apply click/cursor choreography only to a genuine companion-app interaction.
+
+- Give each camera move a product reason: reveal the silhouette, approach a real material/control, or connect to the hero. Carry the same visual landmark through related shots. Do not inherit the faceless engine's perpetual camera motion when a label needs a stable hold.
+- Add at most one crisp technical callout attached to a real feature. In a 3D scene, project its anchor through the current camera; in a flat image, transform it with its source crop. Keep labels away from silhouettes, reflections and captions.
+- A masked phrase or restrained accent line can introduce a detail, then yield to the material. Keep input typing and Software Walkthrough panels for a genuine companion-app beat only.
+- Shape sound around the reveal and the actual detail, leaving room for narration. Use restrained scene changes instead of the Creator flash/glitch stack. Preserve real geometry and available viewing angles.
+- Preview the reveal, a readable annotated detail and a stable hero. The [cover](../../references/thumbnails.md) needs enough light to identify the actual product at small size; a black silhouette without recognizable detail is not a finished cover.
+
 Create a dramatic product reveal using controlled light, depth, material detail, and deliberate pacing. Futuristic styling should support a real product rather than disguise it.
 
 ## Visual system

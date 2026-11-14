@@ -1,5 +1,17 @@
 # Infographic / Explainer
 
+## Refined treatment: Clean Tech causal diagrams
+
+Use the [Clean Tech example](../../references/video-studies/2026-11-14-craft-upgrade.md) for small cards, clear paths and semantic hierarchy, with [motion craft](../../references/motion-craft.md) for timeline and sound.
+
+Text: use [a clear explanatory heading, consistent relationship labels and an exact metric/unit hierarchy](../../references/heading-system.md). Audio: use [a quiet coherent bed and sparse event-linked accents](../../references/sound-and-cursor.md), leaving numbers and their meaning unobscured by ticks or swells.
+
+- Introduce the real product/context, then build one relationship: input → condition/process → supported outcome. A travelling dot can indicate a conceptual connection; it is not measured throughput or proof of an actual backend run.
+- Use one accent for the active element and consistent success/error semantics. Keep labels, units and axes visible. Add a short masked headline rather than repeating every diagram label in large type.
+- A verified number may count to its final value and settle as it is spoken. A restrained Creator-style landing can emphasize one key metric; omit flash/shake stacks. Chart paths still require real data or masks over the genuine screenshot.
+- Map a quiet tick to visible number changes and a soft chime to a supported completion. Hold the completed relationship without camera drift.
+- Preview one full explanatory relationship. A [cover](../../references/thumbnails.md) should isolate one meaningful metric or comparison with its unit and product context; it must remain truthful at a glance.
+
 Explain a product's mechanism, specifications, or process through simple diagrams and evidence. One understandable idea per scene.
 
 ## Visual system

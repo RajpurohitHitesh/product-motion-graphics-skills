@@ -55,3 +55,19 @@ explain what changed. Keep this revision focused on the requested change.
 ```
 
 For render checks and output requirements, use [rendering](../references/rendering.md); metadata checks alone cannot establish visual or voice quality.
+
+## Timeline, focus and cover pass
+
+```text
+Review a timestamped contact sheet and close frames at input, action, transition
+and result boundaries. Check source-aligned highlights, camera/reading holds,
+correctly typed final values, and distinct target-removal versus alert-off states.
+Seek to the same time after visiting another frame and check for state drift.
+Play the dense sections and listen to the actual mix; do not infer playback from stills.
+
+Keep one primary treatment from Creator Motion Graphics, Clean Tech or Software
+Walkthrough where relevant. Preserve the selected style instead of adding all three.
+For a requested cover, select a settled product-led frame with a short accurate
+promise and check it at small preview size. Reuse the working project and requested
+outputs; do not construct extra players or render every variant automatically.
+```

@@ -1,5 +1,17 @@
 # Layered / 3D App Showcase
 
+## Refined treatment: deliberate card handoff
+
+Use [motion craft](../../references/motion-craft.md) and the [comparison study](../../references/video-studies/2026-11-14-craft-upgrade.md). Retain this style's established layered app-promo identity and the owner's primary AmezPrice reference.
+
+Text: use [a short hero headline and one subordinate feature label](../../references/heading-system.md); keep the label aligned to its card and the headline outside the screenshot camera. Sound: use [a light electronic bed with related card-handoff accents](../../references/sound-and-cursor.md), reducing activity while the hero UI is read.
+
+- Assign clear roles: one readable hero screen, one optional explanatory crop, and supporting cards that establish breadth briefly. Give cards a consistent depth order and shadow direction.
+- Hand off focus through a common screen landmark: hero → highlighted feature crop → supported result → hero. Settle to frontal reading before labels or numbers matter; stop decorative drift during dense UI.
+- Borrow a single Creator-style marked hook or CTA when useful, then return attention to the app. Clean Tech's spacing and accent hierarchy suit the feature card; its generic AI-agent diagram is not an app capability.
+- A short genuine input/alert action can use Walkthrough typing and touch cues. Avoid converting the whole promo into an unsupported simulated app session.
+- Preview the card handoff and a readable feature, not only a floating fan. A [cover](../../references/thumbnails.md) uses one dominant app screen and one lifted supporting detail, preserving a clear product/brand identifier.
+
 A bright app-promo treatment with floating interface cards, controlled perspective, and one readable feature hero. Use when the user wants the interface itself to become the product reveal. Keep this style inside the shared product skill.
 
 This is the owner's recommended **promo** direction for AmezPrice, based on the [priority reference study](references/2026-11-14-amezprice-primary.md). For screenshot feature explanations recommend [Style 1](../screenshot-feature-explainer/STYLE.md); for instructional tasks recommend [Style 2](../guided-how-to/STYLE.md). Always follow [the product profile](../../references/products/amezprice.md) and the main skill's selection gate. The promo source has low-resolution sequence evidence and a larger static poster; an exact animation match has not been verified.

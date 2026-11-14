@@ -1,5 +1,17 @@
 # Bold Social Media
 
+## Refined treatment: Creator Motion Graphics product hook
+
+Borrow from the [supplied Creator example](../../references/video-studies/2026-11-14-craft-upgrade.md), using [motion craft](../../references/motion-craft.md) to keep its energy purposeful.
+
+Text: use [a large short hook, one accent word, smaller supporting benefit and readable genuine offer terms](../../references/heading-system.md). Sound: use [a coherent electronic/half-time groove and selective strong landings](../../references/sound-and-cursor.md); clicks, cards and ordinary labels remain lighter than the hero payoff.
+
+- Make the first frame communicate a real benefit and recognizable product. A large condensed phrase, one marked word and a product crop can establish the hook before the first cut.
+- Use a controlled punch/scale settle, one highlighter or hand-drawn pointer, and recurring graphic transitions. Keep brand colors coherent. Strong shake, RGB glitch and full-frame flashes are optional exceptional accents, not the default transition on every idea.
+- Let the actual product, a supported benefit and a real offer/result carry successive beats. Tilt a card only briefly before reading. Invented browser messages or earnings in the reference are not commercial proof.
+- Exact supplied offer/metric values can receive one strong visual landing followed by a stable hold. Keep units, terms and product identity legible; do not manufacture urgency or savings.
+- Preview hook → product → benefit → readable payoff. The [cover](../../references/thumbnails.md) shares the same settled hierarchy, with one genuine offer badge only when supported. Check the quiet hold as carefully as the fast cuts.
+
 Strong first-frame communication, vivid product visuals, and purposeful fast edits for a phone screen. Energy should make the product memorable.
 
 ## Visual system

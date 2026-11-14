@@ -1,5 +1,17 @@
 # SaaS / Product Demo
 
+## Refined treatment: focused walkthrough and Clean Tech
+
+The [owner-supplied examples](../../references/video-studies/2026-11-14-craft-upgrade.md) strengthen a concise input → function → result demo. Use [motion craft](../../references/motion-craft.md) for shared event timing and sound; recommend Style 2 when exhaustive repeatable steps are the main goal.
+
+Text: use [an outcome-led opening title, named feature headings, input/result labels and concise supporting benefit](../../references/heading-system.md). Sound/pointer: use [a coherent light electronic bed with purposeful click/typing feedback](../../references/sound-and-cursor.md), making the real result clearer than the decorative movement.
+
+- Introduce one real task with a short phrase reveal, then bring its input/control forward. Use the actual result panel as the payoff; keep supporting windows secondary.
+- A Clean Tech light stage can use one accent pill, a quiet grid, consistent card shadows and purposeful connector paths. Replace the reference's sample AI-agent loop with verified product behavior or a clearly conceptual explanation.
+- Type genuine queries/inputs, focus the supported action, and connect its activation to the supplied next state. Separate camera travel from reading holds. On mobile, use a touch ripple and the real app shell.
+- When moving from a full app to a report/detail, retain a location landmark and return to context before another workflow. Reflow wide result tables into focused vertical crops instead of shrinking all columns.
+- Preview one complete task/result with legible labels. The [cover](../../references/thumbnails.md) uses the clearest real result, a small product identifier and one outcome promise; it need not show the entire app.
+
 Make a digital product's benefit clear through an understandable interface action and its result. For a physical product, use this style only when a genuine companion app or digital workflow is relevant.
 
 ## Visual system

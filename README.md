@@ -2,6 +2,8 @@
 
 **One Claude skill with 10 selectable styles** for vertical product and app videos on YouTube Shorts. Work with product photos, app screenshots, video clips, or a combination of these assets.
 
+All ten styles now include purpose-specific improvements from **Creator Motion Graphics, Clean Tech, and Software Walkthrough**, plus shared typing, sound-event timing, readable focus moves and cover planning. These are treatments within the existing ten choices. See the [comparison and style mapping](references/video-studies/2026-11-14-craft-upgrade.md).
+
 ## Start here: one prompt
 
 Once the skill is available, provide your actual assets with this prompt. Preview generation time depends on the available rendering and audio tools.
@@ -113,7 +115,24 @@ Each file explains when to use its prompts. Add your actual assets, verified det
 | [brand-design-system.md](prompts/brand-design-system.md) | Product and brand intake, reusable brand and motion profiles, and an optional read-first snippet for project instructions. |
 | [briefs.md](prompts/briefs.md) | A product brief prompt, AmezPrice feature explainer and verified how-to examples, and scene-plan fields. |
 | [polish.md](prompts/polish.md) | A motion/readability audit, real UI integrity checks, voice/caption fixes, and a fix-one-thing prompt. |
-| [effects.md](prompts/effects.md) | 16 original effect prompts covering focus zooms, callouts, tap cues, floating cards, text, chart reveals, depth, and CTAs. |
+| [effects.md](prompts/effects.md) | 20 effect prompts including focus, cards, field typing, keyword marks, shared sound events and cover-ready frames. |
+| [style-upgrades.md](prompts/style-upgrades.md) | Three ready-to-copy treatment prompts: Creator Motion Graphics, Clean Tech and Software Walkthrough, mapped to the existing ten styles. |
+
+The complete owner-supplied prompts and their HTML/canvas code are preserved in [source prompts](references/source-prompts/PROVENANCE.md). Load only the relevant source when helper code is needed; normal video requests do not need all three large examples.
+
+## Motion and cover improvements
+
+| Need | Guidance |
+| --- | --- |
+| Creator-style type, marked words and controlled energy | Mainly Styles 6/8; a bounded hook/CTA accent in 4/10. |
+| Clean Tech card hierarchy, masked type and clear diagrams | Mainly Styles 1/3/5/7, with a light kinetic option in 6. |
+| Actual field typing, focus, tap and result choreography | Mainly Styles 2/3; bounded genuine workflow beats in 1/4/10. |
+| Shared picture/sound timing, provisional narration and phone-size QA | [Motion craft](references/motion-craft.md), retaining each style's pace and identity. |
+| Detailed titles, step/feature headings, labels, supporting text and metrics | [Heading system](references/heading-system.md), including reference font pairings, vertical scales, line breaks and per-style text roles. |
+| Background-music phrasing, tactile sounds and cursor/touch feedback | [Sound and cursor direction](references/sound-and-cursor.md), with music mood, action-event sync, mix review and anchored ripples. |
+| First-frame design and a requested thumbnail | [Cover recipes for all ten styles](references/thumbnails.md), with one recognizable hero and a short truthful promise. |
+
+The faceless ZIP's useful workflow ideas are adapted to product videos. Its storytelling genres, model downloads, uploader, default male narration and perpetual camera motion are not new defaults. The three supplied motion references are landscape examples; product videos remain natively vertical.
 
 ## Quick choices for AmezPrice
 
@@ -134,11 +153,12 @@ Follow [the AmezPrice profile](references/products/amezprice.md) for product fac
 | Creativity | A style is not an identical template for every video. Adapt hooks, layouts, crops, and transitions to the actual assets and purpose. Request an exact repeat or consistent series layout when needed. Preserve the real action order in tutorials. |
 | Mixed style | On request, borrow a suitable secondary element while retaining an explicit primary style. Do not automatically mix all styles. |
 | Female voice | Prefer a supplied real human female recording. Otherwise, use available natural female AI TTS and identify it as AI-generated. A real human requirement needs an actual recording. |
+| Voice supplied later / no voice | Explicit instructions override the voice default. Prepare script/timing markers and music/SFX without generating speech when requested. |
 | Language | Use English by default. Use another language for a specific video only when explicitly requested. |
 | Final format | Default: 1080 × 1920, 9:16, 30 fps, and 30 seconds unless requested otherwise. |
 | Preview | Default: 6–8 seconds at 540 × 960, delivered as an actual playable file with any missing audio disclosed. |
 
-The package includes skill instructions and a checking helper. It does not bundle a renderer, TTS service, credentials, or production media. If required tools are unavailable, Claude provides clearly labeled source or storyboard material and identifies what remains pending rather than claiming a completed render or voice track.
+The package includes instructions, a checking helper and three archived reference prompts with HTML/canvas examples. It does not configure a production renderer, TTS service, credentials, or the user's product assets. If required tools are unavailable, Claude provides clearly labeled source or storyboard material and identifies what remains pending rather than claiming a completed render or voice track. A prompt-only request produces the requested prompt; a reference player does not require an additional HTML deliverable.
 
 ## What this skill needs to run
 

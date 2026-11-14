@@ -1,5 +1,17 @@
 # Screenshot / Feature Explainer
 
+## Refined treatment: Clean Tech feature focus
+
+Use [motion craft](../../references/motion-craft.md) for timing, annotation coordinates, typing and sound. The [owner-supplied comparison](../../references/video-studies/2026-11-14-craft-upgrade.md) adds Clean Tech hierarchy and the AmezPrice comparator's focus/restore pattern to this style.
+
+Text: use [a bold meaning-led heading, semibold feature label and quiet supporting explanation](../../references/heading-system.md), with source metrics kept intact. Audio: use [an airy low bed and restrained focus/action cues](../../references/sound-and-cursor.md); keep the explanation easy to hear and attach any tap ripple to its actual target.
+
+- Establish the real screen, isolate one feature, then connect it to one plain-language meaning. A masked short headline and one brand-colored keyword pill can introduce the question; let the screenshot explain the answer.
+- Choose one spotlight or enlarged detail, with a small source-anchored label. Restore context between graph, score, and alert explanations. Pause background and camera drift while values are being read.
+- Group exact low/average/high values into a readable comparison only when present in the evidence. Keep historic range and units visible; a count-up does not add historical samples.
+- Use Software Walkthrough's typing/tap cue only for a bounded supported action. A single static feature screen still does not document a full navigation task.
+- Preview a complete feature → focus → explanation beat. For a [cover](../../references/thumbnails.md), use one real feature crop, one short benefit, and one supporting callout. Avoid a tiny full-dashboard cover.
+
 **Choice 1.** Explain what one app feature does, why it is useful, and how to interpret what is visible. Designed for actual app screenshots, with recordings optional. For AmezPrice feature explanations, recommend this style and wait for the user's selection before previewing.
 
 This is an owner-requested hybrid inside the product skill, combining the interface accuracy of [SaaS / Product Demo](../saas-product-demo/STYLE.md), the explanation hierarchy of [Infographic / Explainer](../infographic-explainer/STYLE.md), the card framing of [Layered / 3D App Showcase](../layered-app-showcase/STYLE.md), and the restraint of [Minimal](../minimal-apple/STYLE.md). These are original production choices, not a newly measured reference video.

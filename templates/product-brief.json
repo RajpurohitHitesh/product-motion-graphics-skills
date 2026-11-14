@@ -55,6 +55,46 @@
   },
   "assets": [],
   "screenshotPlan": [],
+  "textSystem": {
+    "treatment": null,
+    "families": {
+      "display": null,
+      "body": null,
+      "accent": null,
+      "label": null
+    },
+    "roles": {},
+    "sceneText": []
+  },
+  "soundDesign": {
+    "musicTreatment": null,
+    "soundFamily": null,
+    "speechMode": "follow brief",
+    "eventSource": "motionPlan.events",
+    "mixReviewStatus": "pending"
+  },
+  "motionPlan": {
+    "primaryTreatment": null,
+    "secondaryTechnique": null,
+    "timingStatus": "pending",
+    "wordTimingPath": null,
+    "shots": [],
+    "events": [],
+    "contactSheetPaths": []
+  },
+  "thumbnail": {
+    "requested": false,
+    "headline": null,
+    "sourceAssetId": null,
+    "candidateFrame": null,
+    "filePath": null
+  },
+  "deliverables": {
+    "video": true,
+    "editableSource": true,
+    "extraPlayer": false,
+    "publicationText": false
+  },
   "referenceVideos": [],
   "musicPath": null,
   "requiresReviewBeforeFinal": false,

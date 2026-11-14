@@ -10,6 +10,7 @@ Read this profile only when planning an Amezprice product video or updating its 
 - The other five Batch 03 references are high-priority supporting inspiration. Earlier batches remain supplementary for this product unless the owner says otherwise.
 - Shared delivery preferences remain vertical YouTube Shorts at 1080 × 1920, natural female narration, and explicit style selection before a preview.
 - **Owner-identified actual app video:** [o3hVL6k25Zo](https://www.youtube.com/shorts/o3hVL6k25Zo). Use this as product/brand evidence, with [the study's verification limits](amezprice-source-video.md).
+- **Additional owner-supplied output comparator:** [nHTpuYI9wwE](https://www.youtube.com/shorts/nHTpuYI9wwE), reviewed through ordered storyboards and a poster. The owner requested improvements across all ten styles using this comparison, a faceless ZIP and three motion prompts; see the [comparison study](../video-studies/2026-11-14-craft-upgrade.md). It supplements the established primary promo direction rather than silently replacing it.
 - The four other app videos in [Batch 04](../video-studies/2026-11-14-batch-04.md) are useful supporting design references. They do not establish AmezPrice features.
 
 Do not silently replace this primary reference when another link arrives. New instructions from the owner can change the priority.

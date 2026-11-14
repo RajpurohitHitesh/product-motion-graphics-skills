@@ -42,6 +42,8 @@ Omit fields that do not apply. Write the working plan in the output project; do 
 
 ## Screenshot treatment
 
+Use the [Software Walkthrough and Clean Tech adaptations](motion-craft.md) when they suit the selected style. Field typing should be clipped within the actual input; preset selection remains a tap. Highlight and cue geometry must follow the same source-to-output transform as the screenshot. A slight camera lead can locate a control before narration names it, followed by a stable reading/action hold.
+
 Preserve original files, aspect ratio, UI labels, logos, data, and visual identity. Prefer a readable crop plus enough context to orient the viewer. Do not stretch a screenshot, invent missing screen content, or use generative redraws to alter the UI.
 
 Represent highlights, arrows, callout labels, and tap cues as separate presentation layers. Store their coordinates relative to the original source image. Apply the screenshot's crop/scale/offset consistently to those layers, or place them in the same transformed parent, so a focus move does not detach a highlight from its control.
@@ -57,6 +59,8 @@ Adapt the hook, composition, crop sequence, callout design, and scene grouping t
 For tutorials, required action order, control labels, and genuine results constrain the story. For feature explainers, choose a useful conceptual order without creating unsupported functionality. Preserve an approved layout when the user asks for consistent series formatting or an exact repeat.
 
 ## Preview and finish
+
+Plan a [cover-ready feature/task composition](thumbnails.md) from an actual supplied screen or result. Use a clear task title or feature benefit rather than personal activity narration. Keep the active control visible outside captions and chapter/step chrome.
 
 After user style selection, use the shared 6–8 second 540 × 960 preview flow with a representative complete explanation/step and actual female narration when available. Final delivery remains 1080 × 1920, 9:16 by default. Keep source, captions, and clean narration as produced.
 

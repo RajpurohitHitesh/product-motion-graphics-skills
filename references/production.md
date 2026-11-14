@@ -49,8 +49,14 @@ Plan a hook, a recognizable product, a few supported benefits, and one action. T
 
 ## Shared motion rules
 
+Read [motion craft](motion-craft.md) after choosing the style. Plan source-backed beats and share event times across focus moves, input typing, emphasis and sound. Keep source-relative coordinates attached to screenshots through every transform. The [three borrowed treatments](video-studies/2026-11-14-craft-upgrade.md) have distinct use cases; preserve the selected style rather than adding all effects.
+
+Write the exact on-screen hierarchy using [headings and supporting text](heading-system.md), including useful step/feature titles rather than a transcript pasted over UI. Use [music, effects and cursor guidance](sound-and-cursor.md) for a coherent bed, tactile action sounds, event-anchored ripples and voice-aware mixing. Review the actual text and sound in the representative preview.
+
 Use a consistent easing family, type hierarchy, and transition vocabulary from the selected style. Convert seconds to integer frames using the actual fps. Time visible actions to the recorded narration; music can add rhythm without controlling every shot.
 
 In code renderers, drive animation from the composition timeline and deterministic inputs. Wall-clock timers, unseeded random particles, network-loaded fonts, and unfinished image loads can produce inconsistent frames. Resolve media and fonts before a render, and clamp interpolated values where necessary.
 
 Before delivery, inspect the opening, transitions, densest caption, product detail, and final CTA. Listen for clipped words, abrupt music cuts, and speech masked by effects. Technical checks and visual/audio review serve different purposes.
+
+Compose a deliberate opening and cover candidate using [thumbnail guidance](thumbnails.md). Export a separate cover/publication text when requested. Narration defaults apply only when the user has not overridden them; a music/SFX-only brief or separately supplied voiceover must not trigger automatic TTS.

@@ -1,5 +1,17 @@
 # Minimal / Apple-inspired
 
+## Refined treatment: restrained Clean Tech
+
+Adapt the [supplied Clean Tech treatment](../../references/video-studies/2026-11-14-craft-upgrade.md) through this style's restraint. Use [motion craft](../../references/motion-craft.md) for timing, not as a requirement to add every effect.
+
+Text: use [one measured headline, an optional quiet supporting line and precise optical spacing](../../references/heading-system.md), retaining this style's simple family hierarchy. Audio: use [sparse warm atmosphere and a few soft purposeful cues](../../references/sound-and-cursor.md), leaving space around the product reveal and closing line.
+
+- Reveal a short statement from a clean mask, with smooth deceleration. One restrained brand accent can mark the key phrase; avoid adding multiple pills, tiny mono labels or a decorative grid when the product already carries detail.
+- Make space measurable in the composition: product silhouette, headline and caption have distinct areas. Let shadows ground the hero. Keep text contrast stable through every mask/opacity stage.
+- For a digital product, show one accurate input or result crop with sufficient reading time. For a physical product, use a real feature/detail instead of a fictional software panel.
+- Use quiet sound accents on a reveal or a real action, with sparse music and no repeated impact stack. A subtle push may connect related details; it yields to a still product hold.
+- Preview the reveal, reading hold and quiet transition. The [cover](../../references/thumbnails.md) emphasizes the actual product silhouette and one short promise with generous space. Creator shake, flash, marker clutter and aggressive count-up landings remain outside this restrained variation.
+
 Premium product storytelling through space, precise typography, and controlled movement. Borrow restraint and visual clarity, not another brand's logos, slogans, or exact advertising sequence.
 
 ## Visual system

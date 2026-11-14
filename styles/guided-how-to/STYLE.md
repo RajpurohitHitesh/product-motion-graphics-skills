@@ -1,5 +1,18 @@
 # Guided / How-To Tutorial
 
+## Refined treatment: Software Walkthrough
+
+Use [motion craft](../../references/motion-craft.md) with the [supplied walkthrough study](../../references/video-studies/2026-11-14-craft-upgrade.md). Build a repeatable task from actual evidence rather than copying the reference's invented desktop app.
+
+Text: use [a clear task title, numbered action label, exact control name and short result line](../../references/heading-system.md). Audio/pointer: use [a calm bed, tactile clicks/keys and approach–settle–press–result choreography](../../references/sound-and-cursor.md); keep step chrome steady while the source-relative control is focused.
+
+- Give each task beat a short numbered instruction. Orient → approach the control → tap/type/select → hold the supported result. Show one action at a time; let a step last longer when its input or explanation needs it.
+- Use mobile touch cues for phone UI. A desktop cursor may follow eased waypoints for a genuine desktop flow. Put the spotlight, cue, and input overlay in the screenshot's transformed coordinate space.
+- Animate field entry with a caret and quiet typing, ending on the captured value. If the user selected a preset, show that selection as a tap. Let a camera move lead the named control slightly, then keep it steady through reading and entry.
+- Show saved/enabled/updated states from genuine supplied evidence. Keep removing a target distinct from disabling enabled notification channels; name the actual state change in both narration and the result callout.
+- Use a short click for activation and a restrained chime for the real result. Keep step chrome outside active controls and captions. Show a full action/result pair in the preview.
+- A [cover](../../references/thumbnails.md) should communicate the task and show its actual outcome/control. Step counts must match the real task. Do not import the landscape reference's four-step count or UI layout.
+
 **Choice 2.** Teach one app task so the viewer can repeat it: where to start, what to select, what to do next, and how to recognize the result. Designed for a verified sequence of app screenshots or recordings. For AmezPrice how-to videos, recommend this style and wait for user selection before previewing.
 
 This owner-requested hybrid combines the action/result clarity of [SaaS / Product Demo](../saas-product-demo/STYLE.md), the numbered-step structure of [Infographic / Explainer](../infographic-explainer/STYLE.md), and the readable hierarchy of [Minimal](../minimal-apple/STYLE.md). Small text emphasis can be borrowed from [Kinetic Typography](../kinetic-typography/STYLE.md); dense moving text and fast cuts should not interrupt instructions.

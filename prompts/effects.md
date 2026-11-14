@@ -1,6 +1,6 @@
-# 16 product-motion effect prompts
+# 20 product-motion effect prompts
 
-Use one effect when it helps the current selected style and actual assets. These are original prompt helpers, not a new style or an effect pack. New videos still need style confirmation before a visual preview. Keep real UI, data, product identity, voice timing and readable holds intact. Do not add all 16 effects to one video.
+Use one effect when it helps the current selected style and actual assets. These are prompt helpers, not a new style or an effect pack. New videos still need style confirmation before a visual preview. Keep real UI, data, product identity, voice timing and readable holds intact. Do not add all 20 effects to one video.
 
 ## 1. Screenshot focus zoom
 
@@ -115,4 +115,40 @@ Give the supplied CTA one gentle emphasis or pulse, followed by a readable hold.
 Preserve brand and caption space. Do not invent app buttons, store badges, discounts, or action results.
 ```
 
-Use [the selected style guide](../styles/INDEX.md), [screenshot rules](../references/screenshot-videos.md) and [production rules](../references/production.md) to decide which effect fits. The actual preview/source files must exist before reporting an effect implemented or validated.
+## 17. Real field typing
+
+```text
+Animate the verified search or target-price input inside its actual field. Focus it,
+show a caret, type the intended value character by character, and pause before the
+supported submit action. Preserve border, padding, icon and final captured value.
+Use quiet key sounds only while characters appear. Show a preset selection as a tap.
+```
+
+## 18. One marked keyword
+
+```text
+Mark one important word in this approved phrase with a highlighter swipe for an
+energetic Creator treatment, or a restrained accent pill for Clean Tech. Keep the
+text readable throughout, align the landing to its spoken word when available,
+and retain a recognizable product anchor. Match the current style's energy.
+```
+
+## 19. Shared picture and sound events
+
+```text
+Drive the focus move, actual tap, typing interval, result state and their sounds
+from one event map. Use a lighter mix under supplied narration; leave speech empty
+when voiceover comes later. Avoid duplicate effects when seeking and keep the
+finished result still long enough to read. Mark unaligned draft timing as provisional.
+```
+
+## 20. Cover-ready product frame
+
+```text
+Compose a settled frame in the current style with one actual product/feature hero,
+a short truthful hook and at most one supporting callout. Check it at phone-preview
+size and within a centered square crop. Reuse the same assets and scene components.
+Export a separate thumbnail only if requested; no second full-video render is needed.
+```
+
+Use [the selected style guide](../styles/INDEX.md), [screenshot rules](../references/screenshot-videos.md), [motion craft](../references/motion-craft.md) and [production rules](../references/production.md) to decide which effect fits. The actual preview/source files must exist before reporting an effect implemented or validated.

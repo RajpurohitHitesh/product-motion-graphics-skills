@@ -1,5 +1,17 @@
 # Dark / AI Product Launch
 
+## Refined treatment: typed input, focused result, restrained bridge
+
+Combine relevant techniques from the [three supplied examples](../../references/video-studies/2026-11-14-craft-upgrade.md) within this dark launch style. Use [motion craft](../../references/motion-craft.md) for a shared event timeline and sound.
+
+Text: use [a short kinetic bridge, clear feature heading, real input/result labels and supported outcome title](../../references/heading-system.md). Sound/pointer: use [a low electronic pulse, tactile entry/activation and a restrained output resolution](../../references/sound-and-cursor.md); keep the cursor/ripple aligned with the real field and action throughout focus changes.
+
+- A brief Creator-style marked phrase can bridge ideas, using the actual brand accent rather than forcing yellow. Keep the primary interface visible early and return to its outcome after the bridge.
+- Use Walkthrough focus/typing for a genuine prompt, query or setting. Place the caret and characters within the real field, activate the actual control, and show only a supplied/supported output. Do not invent code generation, latency, notifications or successful runs.
+- Use Clean Tech's spacing and one-active-element hierarchy on a dark surrounding stage. If the real app is light, preserve its light UI; a dark stage is not proof of a native dark mode.
+- Let result panels settle frontally and hold code, reports and dense UI still. Use precise glow around active edges; keep body text sharp. Match taps, typing and outcome sounds to the same event map.
+- Preview a short text bridge plus a complete real action/result beat. The [cover](../../references/thumbnails.md) isolates a recognizable interface/result and one supported promise, with enough edge light for contrast and no fake AI capability badge.
+
 A software launch treatment built around a dark stage, selective interface highlights, short text bridges, and a visible action-to-result story. Useful for AI tools, coding products, creative software, and feature launches with genuine interface assets.
 
 This is a selectable style inside the product skill. Its sustained dark interface treatment and creation/refinement story distinguish it from the general focused SaaS demo and the material-focused cinematic reveal. See the [reference study](references/2026-11-14-gemini-canvas.md) for the actual visual evidence and its limits.

@@ -24,6 +24,8 @@ Drive animations from frame/time values. At 30 fps, 30 seconds is 900 frames; fr
 
 Keep text, product assets, palette, scene timing, and voice paths parameterized so feedback can be applied to the same project. Load fonts and images before rendering and use deterministic effects.
 
+For typed fields, source-aligned spotlights, keyword accents and sound cues, use the shared [event/timing guidance](motion-craft.md). The three [archived reference players](source-prompts/PROVENANCE.md) illustrate optional canvas helpers and seek/audio interfaces; they do not require switching an existing renderer or delivering an extra HTML file. Extract only a relevant example into a temporary/project workspace when useful, adapt it to 9:16, and resolve fonts locally before capture.
+
 ## Preview
 
 Create a dedicated 6–8 second preview composition (or the full video if shorter) using the same product assets, style, typography, and voice identity as the intended final. Show a hook/product, a representative transition, and a benefit rather than an unrelated generic animation.
@@ -61,5 +63,9 @@ Use the actual expected durations, not necessarily 6 and 30. Pass `--fps 60` onl
 The helper requires `ffprobe` on PATH. It checks dimensions, square pixels, rotation, frame rate, duration, MP4 container, video codec/pixel format, and required audio codec. It does **not** assess whether an audio stream contains female speech, whether it is silent, whether claims are correct, or whether the preview looks good. Missing ffprobe is an unrun check, not a pass.
 
 Watch the hook, transitions, captions, product details, and ending. Listen to the narration and music together. Verify no missing fonts/assets, clipped words, flicker, unreadable UI, or altered product details. Check caption sync against the real voice. Keep final export pending when required narration is unavailable.
+
+Inspect a timestamped contact sheet across the whole duration (roughly 0.5–1s intervals), plus close frames at transitions and action/results. Seek back to an earlier frame after another time to check deterministic state and highlight alignment. Play the densest sections; stills cannot establish continuous motion or sound quality. For music/SFX-only output explicitly requested by the user, narration is not a missing requirement.
+
+When a cover is requested, capture a settled frame or reuse the same scene components for its layout, following [cover guidance](thumbnails.md). Keep the source project for revisions; avoid separate editable packages, players or alternate exports beyond the brief's requested deliverables.
 
 Deliver files that exist: final MP4, playable preview, editable source, clean narration, and caption file as produced. Include the selected style, actual resolution/duration, and material limitations in a short handoff. Publishing/uploading requires a user request.

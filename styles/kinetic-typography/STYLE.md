@@ -1,5 +1,20 @@
 # Kinetic Typography
 
+## Two refined treatments
+
+The [owner supplied two kinetic examples](../../references/video-studies/2026-11-14-craft-upgrade.md). Choose one energy level for the product; use [motion craft](../../references/motion-craft.md) for shared timing, sound and vertical reflow.
+
+Use [the complete heading hierarchy](../../references/heading-system.md) for topic labels, display words, accent phrases, metrics and supporting text. Match [the music and effect family](../../references/sound-and-cursor.md) to the chosen treatment: Creator pulse/occasional strong landing or Clean Tech airy pad/quiet ticks, with a stable product identifier and readable closing hold.
+
+**Creator Motion Graphics:** large condensed phrase groups, one highlighter swipe, an optional softer accent face, and controlled scale-settled word entrances. Use a brief punch only on a few strong ideas. Real product/UI crops can enter with restrained depth; supplied exact metrics can land on their spoken value. Keep stronger impacts separate from important control names and small labels.
+
+**Clean Tech:** bold readable sans, masked phrase rises, one brand-compatible keyword pill and quiet supporting cards. Use a gentle push and clean scene bridges. This is useful when the message needs precision or a premium tone rather than forceful creator energy.
+
+- Keep 2–6 key words as a designed headline where suitable; caption the full meaning separately only when it does not compete. Choose real glyph support for Hindi or other requested languages.
+- Build emphasis from recorded word timings when available, using one output frame as a practical alignment target. Mark draft/estimated timing honestly when narration is pending.
+- Treat counters as presentation animation with an exact final value/unit, not a time series or guaranteed result. Do not reuse the example's client, revenue, conversion or message figures.
+- Preview a complete phrase → product → payoff, including a quieter hold. For a [cover](../../references/thumbnails.md), settle the most useful headline with one marked word and a recognizable product anchor.
+
 Words carry the rhythm while the product and its benefits remain visible. Build timing around recorded speech and genuine musical accents.
 
 ## Visual system
