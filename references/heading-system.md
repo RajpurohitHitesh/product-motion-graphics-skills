@@ -43,7 +43,7 @@ Write the exact on-screen copy before animation. The heading states the task/mea
 | Complete alert shutdown | “Turn product alerts off” | Use the actual product-page or enabled-channel action |
 | Amazon share | “Check it from Amazon” | “Share → AmezPrice” |
 
-For Hindi output, adapt the same meanings naturally, for example “अपना target price चुनें” and “इस कीमत या उससे कम पर alert”. Do not add a second language unless requested. Avoid personal activity logs, generic hype, unsupported promises, or repeating the whole narration in every heading.
+Created headings and supporting copy default to English, including when the user chats in Hinglish. Use Hindi/Hinglish on-screen copy only when explicitly requested for that output. For explicitly requested Hindi text, adapt the same meanings naturally, for example “अपना target price चुनें” and “इस कीमत या उससे कम पर alert”. A separately requested Hindi voiceover does not automatically translate English headings. Do not add a second text language unless requested. Avoid personal activity logs, generic hype, unsupported promises, or repeating the whole narration in every heading.
 
 ## Composition and timing
 

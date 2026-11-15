@@ -2,6 +2,8 @@
 
 Use when starting a product video or giving feedback on its preview. Attach actual assets or identify files already in the output project.
 
+Conversation and video language are separate: questions/replies follow the user's language, while created video/cover text defaults to English. A Hindi/Hinglish conversation does not itself request Hindi/Hinglish headings. Specify narration independently when needed, for example “English on-screen text; I will supply Hindi ElevenLabs narration later.”
+
 ## One-line starter
 
 ```text

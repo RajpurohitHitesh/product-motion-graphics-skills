@@ -19,12 +19,12 @@ Use a supplied human recording first. Otherwise the practical fallback is natura
 
 ## Script and delivery
 
-Use English by default and follow the selected style's delivery notes. If the user explicitly requests another language for the video, use natural spoken phrasing suited to that audience rather than a literal translation.
+Use English narration by default and follow the selected style's delivery notes. Select the narration language independently of conversation and on-screen text. A user chatting in Hinglish does not by itself request Hinglish narration or headings. If the user explicitly requests another narration language or supplies a recording in it, use natural spoken phrasing suited to that audience rather than a literal translation; retain the separate on-screen text choice.
 
 Write a short hook, product name, supported benefits, and CTA. A 30-second promo often starts around **50–65 spoken words**, leaving room for pauses; use actual recorded duration, not a word-count guess, to set the final timing. Fast styles can use fewer pauses but should still sound human and clear.
 
 - Use a writing system supported by the voice engine for the requested language, and check brand-name pronunciation. Do not assume mixed writing systems will be pronounced correctly.
-- Default captions to English unless the user explicitly requests another language. Caption wording and timing must match the narration, even when the voice engine requires a different input representation.
+- Default captions to English unless the user explicitly requests another caption language. With English text and Hindi narration, captions are an accurate English translation aligned to spoken phrase timing; do not label them a verbatim English transcript or claim word-level alignment across languages. When caption and narration languages match, preserve the spoken wording and timing even if the TTS input uses a different representation.
 - Add pronunciation notes for brands, units, or acronyms. Test troublesome terms in the short sample before generating the whole narration.
 - Keep delivery conversational, with natural emphasis and pauses. Prefer shortening copy over speeding audio unnaturally. Do not clip the final syllable to meet the target duration.
 

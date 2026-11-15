@@ -154,7 +154,9 @@ Follow [the AmezPrice profile](references/products/amezprice.md) for product fac
 | Mixed style | On request, borrow a suitable secondary element while retaining an explicit primary style. Do not automatically mix all styles. |
 | Female voice | Prefer a supplied real human female recording. Otherwise, use available natural female AI TTS and identify it as AI-generated. A real human requirement needs an actual recording. |
 | Voice supplied later / no voice | Explicit instructions override the voice default. Prepare script/timing markers and music/SFX without generating speech when requested. |
-| Language | Use English by default. Use another language for a specific video only when explicitly requested. |
+| Video text | Default created titles, headings, labels, callouts, captions, CTA and cover copy to English, regardless of the chat language. Change the relevant output language when explicitly requested. Preserve real screenshot wording. |
+| Conversation | Match the user's language naturally: Hinglish questions/replies for Hinglish, English for English, Hindi for Hindi. This does not change the video's text language. |
+| Narration language | Default to English; follow separately requested narration language or the supplied recording. English text and Hindi voiceover can be selected together. |
 | Final format | Default: 1080 × 1920, 9:16, 30 fps, and 30 seconds unless requested otherwise. |
 | Preview | Default: 6–8 seconds at 540 × 960, delivered as an actual playable file with any missing audio disclosed. |
 

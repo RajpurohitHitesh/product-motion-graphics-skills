@@ -19,11 +19,11 @@ Human-facing examples are in the [usage guide](../README.md). Keep its style tab
 
 The user selects one style before preview generation. A custom combination is available by request, with an explicit primary style. These choices are visual approaches to **product videos**, not separate skills.
 
-Suggested English menu wording:
+English example menu wording; adapt the question and descriptions to the user's conversation language. Keep established style names recognizable. This chat adaptation does not change the default English language of text created for the video:
 
 > Which style would you like to use? 1 Screenshot Feature Explainer, 2 Guided How-To, 3 SaaS Demo, 4 Layered / 3D App Showcase, 5 Minimal, 6 Kinetic Typography, 7 Infographic Explainer, 8 Bold Social, 9 Cinematic, or 10 Dark AI Launch? Select a number or name, and I will create a preview.
 
-Generate this wording from the current table so future styles are included too.
+Generate this wording from the current table so future styles are included too, and match the user's chat language without requiring a separate translation request.
 
 Variations remain inside their parent style. After the user selects a style, describe a relevant variation if useful; do not combine every variation automatically. See [reference batches](../references/video-studies/INDEX.md) for evidence and verification limits.
 

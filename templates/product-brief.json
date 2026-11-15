@@ -9,6 +9,9 @@
     "callToAction": null
   },
   "platform": "youtube-shorts",
+  "conversation": {
+    "language": "match-user"
+  },
   "purpose": null,
   "output": {
     "width": 1080,
@@ -48,7 +51,7 @@
   },
   "captions": {
     "required": true,
-    "language": "follow brief",
+    "language": "en-US",
     "script": "follow user preference",
     "filePath": null,
     "timingStatus": "pending"
@@ -56,6 +59,7 @@
   "assets": [],
   "screenshotPlan": [],
   "textSystem": {
+    "language": "en-US",
     "treatment": null,
     "families": {
       "display": null,

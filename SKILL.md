@@ -15,13 +15,16 @@ For a user-facing overview, workflow diagram, requirements, and ready-to-copy pr
 - Duration: 30 seconds unless specified; adapt the story to the requested length.
 - Inputs: images only, clips only, screenshots, or a mixture; accept brand assets and audio too.
 - Voice: natural, adult female delivery. Prefer a supplied human recording; otherwise use an available female TTS voice and identify it as AI-generated. See [voiceover](references/voiceover.md).
-- Language: keep skill documentation and example prompts in English. Default video scripts, narration, and captions to English; use another language for a specific video only when the user explicitly requests it.
+- Video language: default created headings, supporting text, step labels, callouts, captions, CTA and thumbnail copy to **English**, independently of the chat language. Narration also defaults to English, but its language can be selected separately. Keep skill documentation and example prompts in English; apply explicit content-language requests for the relevant deliverable.
+- Conversation language: match the user's current language and writing style for questions, style descriptions, explanations and progress/final replies. Reply naturally in Hinglish to Hinglish, English to English, and Hindi to Hindi unless the user requests another chat language. No explicit translation request is needed for this matching.
 - Output: playable video preview, then the requested final MP4 and editable source.
 - Style: **no default selection**. Never infer style selection from supplied assets or a reference link.
 
 These are production preferences, not claims that YouTube requires this exact resolution, frame rate, or duration.
 
 Explicit current instructions override defaults, including language, voice and deliverables. If the user will add ElevenLabs narration later, prepare the script and timing markers without generating speech; music/SFX-only output is valid when requested. Do not create additional player exports or editable formats merely because a reference includes them.
+
+Do not infer a video's text or narration language from the language used to chat about it. For example, a Hinglish request to make an alert tutorial receives Hinglish planning questions and English on-screen copy by default. An explicit request for Hindi voiceover with English text keeps those two choices separate. Preserve actual screenshot/control wording rather than silently translating the product UI. Use established language preferences without asking again.
 
 ## 1. Decide what the user is asking for
 
@@ -42,7 +45,7 @@ For screenshot-based feature explanations, recommend **1 — Screenshot / Featur
 
 ## 2. Always ask for style selection for a new video
 
-Read the current [style menu](styles/INDEX.md), including styles added later. Present its numbered choices with a short description in English unless the user explicitly requests another language. Ask:
+Read the current [style menu](styles/INDEX.md), including styles added later. Present its numbered choices and short descriptions in the user's current conversation language, keeping recognizable style names and exact UI control labels intact. The following is an English example; adapt the question naturally for the user's chat language without changing the video's English text default:
 
 > Which style would you like for this product video? Select a number or style name, and I will create a preview in that style.
 
@@ -61,6 +64,8 @@ Use [motion craft](references/motion-craft.md) for shot/event timing, field typi
 Design exact title, step/feature heading, supporting line, labels, metric and caption roles using [the heading system](references/heading-system.md). Record their hierarchy, font tokens, line breaks and emphasis before animation. For a music/effects or interaction preview, use [sound and cursor direction](references/sound-and-cursor.md): choose a style-appropriate bed and coordinate pointer approach, press, ripple, actual result and sound on the same event map.
 
 Record the product, verified benefits, audience, duration, CTA, selected style, assets, language, voice source, and output settings. Reuse details already provided. Ask only for missing essentials such as an unknown product or the actual human recording when a real human voice is required. Use the documented defaults for optional details.
+
+Record conversation, on-screen text, captions and narration languages separately in the brief. English text can accompany separately requested Hindi narration; in that case English captions convey the spoken meaning and follow phrase timing rather than being described as a verbatim transcript.
 
 Record the borrowed treatment, actual/estimated timing status, action and sound events, requested cover, and requested deliverables in the brief. Use one event map for picture and sound; keep optional archive players and publication copy out of the task unless useful and requested.
 

@@ -42,7 +42,7 @@ The owner requested two additional screenshot-focused styles for feature explana
 
 The [primary style reference](../../styles/layered-app-showcase/references/2026-11-14-amezprice-primary.md) remains the owner's preferred promo inspiration; adding teaching styles does not replace it. Use its compatible card treatment sparingly in feature explanations, and keep instructions stable/readable in a tutorial.
 
-Suggested selection wording for the current screenshot use case:
+English example selection wording for the current screenshot use case; adapt it to the user's chat language while keeping video text English by default:
 
 > I recommend Style 1 to explain a feature's benefit, or Style 2 to teach the steps for using it. Which would you like to select? After your selection, I will create a preview from the screenshots.
 
